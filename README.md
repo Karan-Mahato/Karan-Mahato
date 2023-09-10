@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karan-Mahato
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Some projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me By using email-karanmahato0109@gmail.com
 
 <!---
