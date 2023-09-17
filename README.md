@@ -10,11 +10,10 @@ I like to learn new things like Sketching and different languages.
 ### C++
 
 ### 🔗 Connect :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Karan-Mahato)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/karan_7dc//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Karan-Mahato)         
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/karan_7dc//)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https:Karan-Mahato)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Karan-Mahato)  
+ 
 
 
 
